@@ -1,0 +1,11 @@
+SubjectID,ethnicity_Bengali,ethnicity_English,ethnicity_Han Chinese,gender_F,gender_M,age
+0,False,False,True,False,True,-0.17248787162901844
+1,False,False,True,False,True,-0.6037075507015661
+2,False,True,False,False,True,2.4148302028062676
+3,False,False,True,True,False,1.1211711655886245
+4,True,False,False,False,True,-0.6037075507015661
+5,False,False,True,False,True,-0.6037075507015661
+6,False,False,True,False,True,-0.6037075507015661
+7,False,False,True,False,True,-0.17248787162901844
+8,False,False,True,False,True,-0.17248787162901844
+9,False,False,True,True,False,-0.6037075507015661
