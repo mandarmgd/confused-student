@@ -25,3 +25,13 @@ All results saved to `./artifacts/`, including:
 * Confusion matrices
 * Per-fold metrics
 * Attention weights
+
+## Results 
+
+Some overall aggregated results include: 
+* F1 Score - 0.89
+* AUC - 0.86
+* Accuracy - 0.88
+* Precision - 0.84
+* Recall - 0.98
+
