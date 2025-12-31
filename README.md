@@ -1,4 +1,4 @@
-# Confusion Detection from EEG, Video & Demographic
+# Multi-modal confusion detection
 Dataset: [https://www.kaggle.com/datasets/wanghaohan/confused-eeg](https://www.kaggle.com/datasets/wanghaohan/confused-eeg)
 
 This project builds a multimodal classifier that detects learner confusion using:
